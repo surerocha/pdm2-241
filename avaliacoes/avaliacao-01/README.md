@@ -1,2 +1,8 @@
-# pdm2-241
-repositório destinado à disciplina de Programação de dispositivos móveis 2024.1
+# Avaliação-01
+
+Segue a Avaliação 01 da disciplina Programação Dispositivos Móveis 2
+
+Estudante: Sure Rocha Bezerra
+
+Data de Entrega: 29/02/2024
+
