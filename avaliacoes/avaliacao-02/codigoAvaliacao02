@@ -38,15 +38,15 @@ class EquipeProjeto {
 void main() {
 
   // 1. Criar vários objetos Dependentes
-  var dependente1 = Dependente("Rodrigo Rochette");
-  var dependente2 = Dependente("Priscila Vulcano Livia");
-  var dependente3 = Dependente("Estefania Castelino");
-  var dependente4 = Dependente("Leonardo Santiago");
+  var dependente1 = Dependente("César Olavo");
+  var dependente2 = Dependente("Ricardo Taveira");
+  var dependente3 = Dependente("Allyson Bonetti");
+  var dependente4 = Dependente("Carlos Hairon");
 
   // 2. Criar vários objetos Funcionario
-  var funcionario2 = Funcionario("Livia Vulcano", [dependente2]);
-  var funcionario3 = Funcionario("Cristiana Castelino", [dependente3]);
-  var funcionario4 = Funcionario("Maria Carmen Santiago", [dependente4]);
+  var funcionario2 = Funcionario("Sávio Felipe", [dependente2]);
+  var funcionario3 = Funcionario("Roger Moura", [dependente3]);
+  var funcionario4 = Funcionario("Wendell Rodrigues", [dependente4]);
 
   // 3. Criar uma lista de Funcionarios
   var funcionariosList = [funcionario2, funcionario3, funcionario4];
