@@ -4,7 +4,7 @@
 
 ➨ ESTUDANTE: Sure Rocha Bezerra
 -----------------------------
-➨ DISCIPLINA: Programação Dispositivos Móveis
+➨ DISCIPLINA: Programação Dispositivos Móveis 2
 ----------------------------
 ➨ PROFESSOR: Ricardo Duarte Taveira
 -----------------------------
