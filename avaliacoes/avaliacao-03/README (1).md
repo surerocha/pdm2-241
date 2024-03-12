@@ -25,4 +25,4 @@ Para isso :*
 ![printsu](https://github.com/surerocha/pdm2-241/assets/126790749/93809eb2-e51d-479f-9806-a12e8db9b05d)
 
 
-Clique aqui para acessar pdf: [Atividade03.pdf](https://github.com/surerocha/pdm2-241/files/14577113/Atividade03.pdf)
+Clique aqui para acessar o pdf: [Atividade03.pdf](https://github.com/surerocha/pdm2-241/files/14577113/Atividade03.pdf)
