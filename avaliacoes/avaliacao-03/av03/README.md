@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+-> Acesse "bin" para encontrar o código de av03.dart e arquivo.txt
