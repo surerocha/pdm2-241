@@ -178,10 +178,3 @@ Como um programador Python, crie uma aplicação backend que usa o framework FAS
 - **PUT /atualizar_aluno/{id}**: Atualiza um aluno específico por ID.
 - **DELETE /excluir_aluno/{id}**: Exclui um aluno específico por ID.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
