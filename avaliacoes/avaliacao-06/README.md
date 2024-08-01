@@ -178,3 +178,5 @@ Como um programador Python, crie uma aplicação backend que usa o framework FAS
 - **PUT /atualizar_aluno/{id}**: Atualiza um aluno específico por ID.
 - **DELETE /excluir_aluno/{id}**: Exclui um aluno específico por ID.
 
+
+**Evidênciando Testes no Postman:** [fastapi_vscode_postman.pdf](https://github.com/user-attachments/files/16461569/fastapi_vscode_postman.pdf)
