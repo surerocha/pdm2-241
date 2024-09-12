@@ -6,7 +6,7 @@
 
 * Professor: Ricardo Duarte Taveira
 
-* Data de Entrega: 11/10/2024
+* Data de Entrega: 12/09/2024
  
 ### Dupla: [Anderson Maia Santos](https://github.com/TheAnders007) e [Sure Rocha Bezerra](https://github.com/surerocha)
 
